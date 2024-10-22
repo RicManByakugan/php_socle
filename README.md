@@ -1,5 +1,11 @@
 # Mini-Framework Admin Dashboard
 
+**Project made with**
+- https://github.com/RicManByakugan/SurProject
+- https://github.com/RicManByakugan/GSL
+- https://github.com/RicManByakugan/CP2.0
+- https://github.com/RicManByakugan/Agricode
+
 **Base code** for creating administrative applications. This project provides a starting structure to quickly add new features (such as user management, product management, etc.) using PHP, MySQL, and AJAX for asynchronous data management.
 
 ## Existing Features
