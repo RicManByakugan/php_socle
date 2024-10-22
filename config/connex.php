@@ -1,6 +1,6 @@
 <?php 
 	/**
-	 * Class for SUR Connexion
+	 * Class for Db Connexion
 	 */
 	class Connexion
 	{
